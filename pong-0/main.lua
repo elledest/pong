@@ -17,7 +17,7 @@
     This version is built to more closely resemble the NES than
     the original Pong machines or the Atari 2600 in terms of
     resolution, though in widescreen (16:9) so it looks nicer on 
-    modern systems.
+    modern systems. 
 ]]
 
 WINDOW_WIDTH = 1280
